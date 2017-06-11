@@ -11,3 +11,8 @@ device.
 3) Make the activity.xml and activity.java according to need.
 4) Made a signed apk file for installation.
 5) For testing use any testing tool which support mobile testing (UFT mobile center).
+
+
+# for getting Zip password contact 
+
+It contain .Apk file and Android stduio source code
