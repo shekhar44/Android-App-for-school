@@ -5,6 +5,7 @@ Grapic era global school
 
 ********************Graphic Era Global School Application *********************************
 **************** Develop by Shitanshu Shekhar/ Harsh / Rajat Goyal **************************
+
 1) Install the Android Studio.
 2) Go to SDK manager and install necessary component for run the emulator and app on live
 device.
@@ -15,4 +16,4 @@ device.
 
 # for getting Zip password contact 
 
-It contain .Apk file and Android stduio source code
+It contain .Apk file and Android stduio source code    
