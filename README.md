@@ -16,4 +16,4 @@ device.
 
 # for getting Zip password contact 
 
-It contain .Apk file and Android stduio source code    
+It contain .Apk file and Android stduio source code of gegs app     
